@@ -7,9 +7,9 @@
 </h4>
 
 
-![1](https://github.com/Graddery/project/assets/1.png)
-![2](https://github.com/Graddery/project/assets/2.png)
-![3](https://github.com/Graddery/project/assets/3.png)
-![4](https://github.com/Graddery/project/assets/4.png)
-![5](https://github.com/Graddery/project/assets/5.png)
+![1](https://github.com/Graddery/project/blob/main/assets/1.PNG)
+![2](https://github.com/Graddery/project/blob/main/assets/2.PNG)
+![3](https://github.com/Graddery/project/blob/main/assets/3.PNG)
+![4](https://github.com/Graddery/project/blob/main/assets/4.PNG)
+![5](https://github.com/Graddery/project/blob/main/assets/5.PNG)
 
